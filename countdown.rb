@@ -3,4 +3,5 @@
 def countdown(number)
   until countdown==0 
   puts "#{number} SEcond(s)!"
+  "HAPPY NEW YEAR!"
 end
